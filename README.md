@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://github.com/account" align="center" style="width: 100%" />
-</div>  
+[![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
   
 
 ### <div align="center">I'm Nazar, a full-time .NET developer 👨‍💻 </div>  
