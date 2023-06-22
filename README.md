@@ -13,8 +13,6 @@ I am a passionate learner who is always ready to learn and work in different tec
 I love exploring new technologies and using them to solve real problems ✨. In addition, I also love to guide and mentor newbies 👨🏻‍💻. 
 I am taking a course from SoftServe🕸️ and working on my data structures and algorithms 🤓.
 
-Joined Github **3** years ago.
-
 ### 🧐 More About Me:
 
 - 🤝 &nbsp; I want to work with a motivated and fun development team
