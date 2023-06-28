@@ -18,7 +18,7 @@ I am taking a course from SoftServe🕸️ and working on my data structures and
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Dragusev1ch)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/nazar-drahusevych-440786239/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1pRwgZpTaCgOxANz0V84S_ao1I6mgwxxe/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1HHofREd7uAmTJ6mX5D3Q1MCShM9kpa0X/view?usp=sharing)
 - 📚 &nbsp; When I'm free, I do tasks on [CodeWars](https://www.codewars.com/users/Nazaruto) and [LeedCode](https://leetcode.com/nazaruto/)  
 
 <details> 
