@@ -74,7 +74,6 @@ I am taking a course from SoftServe🕸️ and working on my data structures and
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
-
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
